@@ -50,8 +50,6 @@ The objective is to evaluate multiple predictive models, compare their performan
 
 ---
 
-
-
 ## 📈 Key Visualizations
 
 * Model accuracy comparison bar charts
