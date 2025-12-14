@@ -93,7 +93,14 @@ The objective is to evaluate multiple predictive models, compare their performan
 
 ---
 
+## 🚀 Future Enhancements
 
+* Hyperparameter optimization (Grid Search / Bayesian Optimization)
+* Deep learning-based wine quality prediction
+* Web-based model deployment using Flask or Streamlit
+* Integration of sensory and environmental data
+
+---
 
 ## 🔗 Links
 
