@@ -1,6 +1,5 @@
 # Wine-Quality-Prediction-ML
 Machine learning–based wine quality classification using ensemble models, featuring White vs Red wine comparison, feature importance analysis, and statistical validation.
-
 # 🍷 Wine Quality Prediction using Machine Learning
 
 ### *Comparative Analysis of White and Red Wine Datasets*
