@@ -12,7 +12,6 @@ The objective is to evaluate multiple predictive models, compare their performan
 ---
 
 ## 📊 Dataset
-
 * **Source:** UCI Machine Learning Repository
 * **Link:** [https://archive.ics.uci.edu/dataset/186/wine+quality](https://archive.ics.uci.edu/dataset/186/wine+quality)
 * **Wine Types:** White Wine & Red Wine
@@ -23,13 +22,11 @@ The objective is to evaluate multiple predictive models, compare their performan
 ## ⚙️ Methodology
 
 1. **Data Preprocessing**
-
    * Quality score transformed into categorical labels
    * Feature scaling using StandardScaler
    * Stratified train-test split for balanced evaluation
 
 2. **Exploratory Data Analysis**
-
    * Correlation heatmaps
    * Quality distribution analysis
    * Alcohol and acidity impact visualization
@@ -38,7 +35,6 @@ The objective is to evaluate multiple predictive models, compare their performan
 
 3. **Model Development**
    The following ensemble learning models were trained and evaluated:
-
    * Random Forest
    * Gradient Boosting
    * XGBoost
@@ -46,7 +42,6 @@ The objective is to evaluate multiple predictive models, compare their performan
    * CatBoost
 
 4. **Model Evaluation**
-
    * Accuracy score
    * Confusion matrix
    * Classification report
