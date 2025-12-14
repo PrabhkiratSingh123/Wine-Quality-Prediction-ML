@@ -31,7 +31,6 @@ The objective is to evaluate multiple predictive models, compare their performan
    * Alcohol and acidity impact visualization
    * White vs Red wine comparison
 
-
 3. **Model Development**
    The following ensemble learning models were trained and evaluated:
    * Random Forest
