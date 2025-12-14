@@ -112,5 +112,5 @@ The objective is to evaluate multiple predictive models, compare their performan
 ## 🔗 Links
 
 * **Dataset:** [https://archive.ics.uci.edu/dataset/186/wine+quality](https://archive.ics.uci.edu/dataset/186/wine+quality)
-* **LinkedIn:** *(Add your profile link)*
+* **LinkedIn:** [](https://www.linkedin.com/feed/update/urn:li:activity:7405210251966414848/))*
 
