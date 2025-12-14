@@ -10,7 +10,6 @@ This project focuses on predicting wine quality using **advanced ensemble-based 
 
 The objective is to evaluate multiple predictive models, compare their performance, and identify the most effective algorithm for wine quality classification.
 ---
-
 ## 📊 Dataset
 * **Source:** UCI Machine Learning Repository
 * **Link:** [https://archive.ics.uci.edu/dataset/186/wine+quality](https://archive.ics.uci.edu/dataset/186/wine+quality)
