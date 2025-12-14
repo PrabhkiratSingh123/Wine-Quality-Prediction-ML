@@ -56,14 +56,7 @@ The objective is to evaluate multiple predictive models, compare their performan
 
 ---
 
-## 🏆 Results Summary
 
-* **CatBoost** achieved the highest classification accuracy for both White and Red wine datasets.
-* **White wine models** showed more stable performance compared to Red wine models.
-* **Alcohol content**, **volatile acidity**, **sulphates**, and **chlorides** were identified as the most influential features affecting wine quality.
-* Statistical testing confirmed performance differences between datasets.
-
----
 
 ## 📈 Key Visualizations
 
