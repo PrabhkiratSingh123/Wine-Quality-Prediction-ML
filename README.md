@@ -10,7 +10,6 @@ Machine learning–based wine quality classification using ensemble models, feat
 This project focuses on predicting wine quality using **advanced ensemble-based machine learning models**. The study analyzes both **White and Red wine datasets** from the **UCI Machine Learning Repository** and classifies wine quality into **Low, Medium, and High** categories based on physicochemical properties.
 
 The objective is to evaluate multiple predictive models, compare their performance, and identify the most effective algorithm for wine quality classification.
-
 ---
 
 ## 📊 Dataset
