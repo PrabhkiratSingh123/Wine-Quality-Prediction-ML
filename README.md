@@ -22,20 +22,6 @@ The objective is to evaluate multiple predictive models, compare their performan
 
 ---
 
-## ⚙️ Methodology
-
-1. **Data Preprocessing**
-
-   * Quality score transformed into categorical labels
-   * Feature scaling using StandardScaler
-   * Stratified train-test split for balanced evaluation
-
-2. **Exploratory Data Analysis**
-
-   * Correlation heatmaps
-   * Quality distribution analysis
-   * Alcohol and acidity impact visualization
-   * White vs Red wine comparison
 
 3. **Model Development**
    The following ensemble learning models were trained and evaluated:
